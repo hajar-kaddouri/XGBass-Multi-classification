@@ -1,6 +1,5 @@
-# XGBass-Multi-classification
 
-# Crime Classification Project
+#                                                               Crime Classification Project
 This repository contains the data and codebase for classifying crime categories based on various features from the San Francisco Crime dataset.
 
 # Dataset Description
